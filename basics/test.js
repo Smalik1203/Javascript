@@ -1,1 +1,1 @@
-console.log ("shoaib malik")
+console.log ('shoaib maliik')
